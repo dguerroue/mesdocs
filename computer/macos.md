@@ -29,6 +29,11 @@ nvm install node
 nvm install 20.12.1
 ```
 
+Ajouter dans ~/.zshrc
+```sh
+source ~/.nvm/nvm.sh
+```
+
 ## Configurer Enpass
 
 ## Se connecter au compte Google
