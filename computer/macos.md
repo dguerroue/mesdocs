@@ -15,6 +15,7 @@ brew install --cask shottr
 brew install --cask iterm2
 brew install --cask slack
 brew install --cask skype
+brew install --cask arc
 ```
 
 ### Node 
