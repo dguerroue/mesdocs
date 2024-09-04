@@ -10,6 +10,7 @@ brew install --cask google-chrome
 brew install --cask firefox
 brew install --cask enpass
 brew install --cask visual-studio-code
+brew install --cask sublime-text
 brew install --cask raycast
 brew install --cask shottr
 brew install --cask iterm2
